@@ -43,3 +43,5 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Visualization: PowerBI
 Statistical Analysis: Chi-square tests, correlation analysis
 Project Management: Jupyter Notebooks, GitHub
+
+Youtube playlist link : https://www.youtube.com/playlist?list=PL0VdQLYv6Wdxxj_-Z0Lkki0HEC3B9RI1O
