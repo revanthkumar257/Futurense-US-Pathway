@@ -1,0 +1,265 @@
+Name,created_date,paid_date,cohort,source,agent,counsellor,prospect_id,status
+sudheer,2023-08-25,2023-08-30,cohort 1,linkedin,shaqlain sheikh,shailendra singh,d7d7ba30-8207-4a00-a2f0-72c9718a9ad7,INACTIVE TOKEN
+swathi,2023-09-19,2023-10-06,cohort 1,linkedin,rohit,aarti,9f8bb6d3-d30e-4f73-baa8-8e1ae4dd3517,INACTIVE TOKEN
+kabir,2024-03-21,2024-03-23,cohort 2,inbound phone call,siddharth goswami,aviral sharma,0acf038e-e696-11ee-807d-02e22ea38447,active token
+vikash,2023-08-05,2023-08-14,cohort 1,linkedin,shaqlain sheikh,zareen,aa13b8b9-cff5-41fe-a1f5-353e4c90ab04,INACTIVE TOKEN
+amir,2023-08-07,2023-08-08,cohort 1,zoom webinar,shaqlain sheikh,shailendra singh,b78be1f5-34f1-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+syed,2024-04-28,2024-04-27,cohort 2,referral,s rajesh,No Counsellor,8be2c317-4a2a-437e-88d2-6e5bc2677311,active token
+sam,2023-10-05,2023-10-09,cohort 1,us pathway,suhail ahmed,diptikanta jena,1aeec4d9-b631-4e47-80ae-0a105a371a89,INACTIVE TOKEN
+ishaan,2023-10-08,2023-10-16,cohort 1,us pathway,priyanshu tonk,shailendra singh,78d51790-9b57-4a6b-8f66-2095e09535f1,INACTIVE TOKEN
+nandhini,2023-09-09,2023-10-03,cohort 1,linkedin,khyati,shitanshu rai,a365617c-4ee8-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+nehal,2023-09-10,2023-09-29,cohort 1,zoom webinar,payal dhiman,shailendra singh,f0d02588-5de9-43e4-96d6-f99db9215854,INACTIVE TOKEN
+kriti,2023-10-27,2023-10-27,cohort 2,No Source,shaqlain sheikh,shailendra singh,c635bd43-d072-43ac-9143-2d6917aa9850,active token
+mayur,2023-09-20,2023-11-20,cohort 2,linkedin,vaibhav kumar sharma,shailendra singh,7163a196-b459-4d44-be9a-7095aec304e7,active token
+thippesh,2023-07-19,2023-09-21,cohort 1,zoom webinar,khyati,shailendra singh,96a6ee56-2638-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+shreenivas,2023-12-04,2024-03-16,cohort 2,us pathway,janvi aggarwal,shailendra singh,2709b0b5-d802-4beb-aea4-5d31cf2f4520,active token
+bhanu,2023-08-12,2023-10-04,cohort 1,zoom webinar,swapnil awasthi,shailendra singh,5b451c4e-3912-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+manish,2023-10-05,2023-10-14,cohort 1,linkedin,ishant kakkar,shailendra singh,0b785c0d-27d7-4725-a235-0dec2cc0a7e3,INACTIVE TOKEN
+srija,2024-04-13,2024-05-02,cohort 2,facebook,payal dhiman,shashwat,23d84277-bb77-4b58-a9ee-2d36c4c7ac76,active token
+satyam,2024-03-18,2024-03-19,cohort 2,linkedin,payal dhiman,shailendra singh,9534b162-f601-4a4c-aa56-03f71d73a652,active token
+saleesh,2023-09-14,2023-09-19,cohort 1,ig,khyati,aarti,7709f7a9-1243-4313-a5cb-bc906baa777b,INACTIVE TOKEN
+sagar,2023-09-09,2023-09-12,cohort 1,linkedin,rohit,zareen,82abb533-54ad-4210-8599-001e87faf8ef,INACTIVE TOKEN
+abhishek,2023-10-06,2023-10-30,cohort 2,linkedin,swapnil awasthi,diptikanta jena,f970b6af-9b89-4933-b402-2c9120df6d51,active token
+gautam,2024-01-27,2024-01-29,cohort 2,1% club,saket rai,vibhav walia,73b9f85f-bd11-11ee-807d-02e22ea38447,active token
+raghav,2023-07-19,2023-10-10,cohort 1,linkedin,ishant kakkar,shailendra singh,1b9e2fa3-2639-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+tanya,2023-11-30,2023-12-12,cohort 2,facebook,vaibhav kumar sharma,diptikanta jena,fc411dd9-9a3c-43af-b9a4-e9155e756031,active token
+vibhor,2023-09-06,2023-10-08,cohort 1,zoom webinar,abhishek singh,aarti,a495e78e-6e35-4d5e-9991-cffc58af962e,INACTIVE TOKEN
+nimisha,2023-07-19,2023-10-12,cohort 1,placement drive,nikta,diptikanta jena,96a699c8-2638-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+achin,2023-09-18,2023-11-11,cohort 2,linkedin,shaqlain sheikh,diptikanta jena,4c37ff1b-5a00-4d27-949f-baa6dab5f6ba,active token
+ashish,2023-12-06,2023-12-13,cohort 2,facebook,vaibhav kumar sharma,diptikanta jena,40deb473-11f6-4da6-9fd0-75f1f3075b86,active token
+varun,2023-10-04,2023-10-12,cohort 1,linkedin,akasima deka,diptikanta jena,249d15f7-dead-454e-9b67-31dd5260146b,INACTIVE TOKEN
+jobin,2023-09-16,2023-12-19,cohort 2,placement drive,vaibhav kumar sharma,diptikanta jena,55416a55-5464-11ee-a17b-0a9468bc4542,active token
+suyog,2024-02-22,2024-02-24,cohort 2,calendly,janvi aggarwal,diptikanta jena,419fb7ec-7d90-4bcf-bd47-71d8e3fd1ff1,active token
+satheesh,2024-02-18,2024-03-15,cohort 2,facebook,sagar tiwari,shailendra singh,b12ebd59-c99e-45c9-b278-45764fe7f5cb,active token
+ujjwal,2024-02-20,2024-03-02,cohort 2,facebook,shushant verma,aviral sharma,570f0e36-bd23-4998-b620-c950661776f9,active token
+jayesh,2024-03-11,2024-03-19,cohort 2,facebook,kajal,muskan,95896923-c663-438e-a83d-f2c5d31c8ca2,active token
+sachin,2024-03-10,2024-04-02,cohort 2,referral,arabinda palai,shashwat,ab5b5b60-77cf-4324-8ca1-4fbe82df3ff4,active token
+rahul,2024-04-01,2024-04-08,cohort 2,zoom webinar,dolly minocha,muskan,79407a79-8eb4-4c7f-b1f1-da2f4a4c3c43,active token
+subramanya,2023-09-30,2024-03-30,cohort 2,linkedin,arabinda palai,shashwat,8f03ad2f-8a29-4f43-b0f0-ad2728cc980f,active token
+amritha,2024-03-10,2024-03-28,cohort 2,facebook,yashi tiwari,rishabh tripathi,d10f3451-7e7b-4e07-9205-4618766d9c4b,active token
+akhil,2024-03-08,2024-04-03,cohort 2,zoom webinar,afzal ahmad,shashwat,1a9bf8c9-909d-4488-abeb-dc9c3c4b1869,active token
+lokesh,2023-12-22,2024-03-27,cohort 2,b.tech 19-20 grad,dolly minocha,aviral sharma,a3ffbe11-a107-11ee-92ad-0a9468bc4542,active token
+harish,2024-02-19,2024-03-24,cohort 2,facebook,yashi tiwari,aviral sharma,1f83590e-f7a3-4ea5-ad7e-002f2d1d750f,active token
+saurabh,2023-12-20,2024-02-26,cohort 2,facebook,janvi aggarwal,diptikanta jena,383f4ea9-874c-439f-a1d6-81eceb321875,active token
+saurabh,2024-03-25,2024-04-07,cohort 2,zoom webinar,yashi tiwari,rishabh tripathi,05d39427-09ae-45b3-9b0e-c8ca3dfa6009,active token
+srinithya,2023-12-22,2024-01-01,cohort 2,linkedin,fahim moshin shaikh,shailendra singh,2aaf1986-3363-425e-997c-09eb514aa77c,active token
+karthik,2024-01-13,2024-01-19,cohort 2,referral,fahim moshin shaikh,shailendra singh,ab199ad9-8147-4258-a1d4-99c16aa30f32,active token
+abishek,2024-01-30,2024-02-02,cohort 2,1% club,abid bhat,aviral sharma,feb09423-bf2f-11ee-807d-02e22ea38447,active token
+ishant,2023-11-18,2023-11-30,cohort 2,No Source,fahim moshin shaikh,diptikanta jena,f52aa4b8-1101-457d-a9e3-17d72b1360fe,active token
+roy,2023-12-01,2024-01-18,cohort 2,facebook,saket rai,anshika vishwakarma,74d62238-5fc2-4165-9865-ca30e5073d0e,active token
+shashwat,2023-08-05,2024-03-14,cohort 2,facebook,pawan tiwari,muskan,3660b996-a3bd-44a1-a47c-6b683dedbdea,active token
+saurabh,2023-10-08,2024-02-21,cohort 2,linkedin,pawan tiwari,shailendra singh,6a169e36-1994-434d-8153-67ff5601a067,active token
+pruthvi,2024-03-05,2024-03-09,cohort 2,zoom webinar,ayush dixit,rishabh tripathi,5d9fb502-f9d0-470d-95c4-9abce9712bff,active token
+siraj,2024-03-14,2024-03-23,cohort 2,zoom webinar,shrey goel,shashwat,5cb664e6-e180-11ee-807d-02e22ea38447,active token
+swapnil,2023-08-27,2023-09-05,cohort 1,linkedin,fahim moshin shaikh,shailendra singh,c5f5aa70-ec7f-4fd0-bd73-4ed5773b3746,INACTIVE TOKEN
+abhishek,2023-09-05,2023-09-27,cohort 1,facebook,fahim moshin shaikh,shailendra singh,b93b53a1-c3dd-4ab9-bfa8-6c41fd5a4c55,INACTIVE TOKEN
+kasa,2023-09-09,2024-03-05,cohort 2,linkedin,saket rai,rishabh tripathi,6934f1a2-e985-444a-aa23-6b4274fc8e22,active token
+alladi,2024-04-14,2024-04-15,cohort 2,referral,saket rai,rishabh tripathi,322c4591-0ddf-41bf-a3d6-05037458e283,active token
+dhavud,2024-04-09,2024-04-11,cohort 2,referral,chitwan soni,aviral sharma,213b2d02-4c15-4ca6-9a40-5c49a24c0d3b,active token
+nandakumar,2024-02-25,2024-03-01,cohort 2,googleads,bompada sai sudeep,aviral sharma,a06defa1-1e3c-42ef-adb9-9787fcfca310,active token
+shobhit,2024-01-27,2024-03-04,cohort 2,1% club,fahim moshin shaikh,shailendra singh,73b9de59-bd11-11ee-807d-02e22ea38447,active token
+meenakshi,2023-12-23,2024-01-09,cohort 2,us pathway,abid bhat,shailendra singh,b39c3faf-9ca7-4451-a471-335f394dd347,active token
+hari,2024-01-24,2024-01-24,cohort 2,futurense employee referral,bompada sai sudeep,rishabh tripathi,a6987f07-bc87-45f8-8894-ec22b94a278b,active token
+shamim,2024-04-08,2024-04-09,cohort 2,referral,abid bhat,diptikanta jena,900bc6f1-1a3c-4ca7-988f-42e2de21457d,active token
+veena,2024-01-30,2024-02-02,cohort 2,1% club,pawan tiwari,diptikanta jena,feaff08b-bf2f-11ee-807d-02e22ea38447,active token
+trinadha,2023-09-09,2024-02-24,cohort 2,linkedin,ayush dixit,diptikanta jena,a3513e90-4ee8-11ee-a17b-0a9468bc4542,active token
+junaid,2024-02-29,2024-03-01,cohort 2,referral,abid bhat,rishabh tripathi,4b3509bf-7f78-4a3e-a05c-9cf09a13ebf3,active token
+venkatesh,2024-01-27,2024-01-29,cohort 2,1% club,bompada sai sudeep,rishabh tripathi,73ba4378-bd11-11ee-807d-02e22ea38447,active token
+ajith,2023-12-28,2024-03-14,cohort 2,1% club/ b.tech 19-20 grad,abid bhat,muskan,ad710bda-a57b-11ee-92ad-0a9468bc4542,active token
+lalita,2024-02-11,2024-02-11,cohort 2,referral,abid bhat,aviral sharma,97a73695-e689-48b6-b886-0680bfbf2853,active token
+likhita,2023-11-15,2024-03-12,cohort 2,us pathway,pawan tiwari,muskan,6f8ac377-c794-4578-a9a5-0b06dcdb1e0d,active token
+manoj,2024-03-07,2024-03-09,cohort 2,googleads,bompada sai sudeep,shailendra singh,4cb11c36-dccb-4c10-92df-7dd8df231ad0,active token
+sathish,2023-12-19,2023-12-24,cohort 2,referral,saket rai,anshika vishwakarma,f502c885-653e-49ab-875a-0e0002a3295c,active token
+samkit,2024-04-14,2024-04-14,cohort 2,referral,bompada sai sudeep,muskan,2be26b9b-3347-4d10-bc34-bc1495463df6,active token
+yaresh,2023-12-03,2023-12-19,cohort 2,us pathway,saket rai,anshika vishwakarma,682784fb-3529-4454-b663-ef202d754e78,active token
+tharun,2024-01-30,2024-02-02,cohort 2,1% club,bompada sai sudeep,shailendra singh,feb1096b-bf2f-11ee-807d-02e22ea38447,active token
+chetan,2024-02-12,2024-02-26,cohort 2,referral,shrey goel,diptikanta jena,646ad88e-1b0d-4325-9dca-7565fe4dd7fa,active token
+sanskriti,2024-01-08,2024-01-14,cohort 2,referral,saket rai,vibhav walia,14241410-895b-44c4-8253-63385b3dcd7c,active token
+ramaraaj,2024-01-30,2024-02-06,cohort 2,1% club,chitwan soni,aviral sharma,0752fa0e-bf3c-11ee-807d-02e22ea38447,active token
+tejas,2023-09-18,2024-04-06,cohort 2,linkedin,fahim moshin shaikh,shashwat,4d5275e2-4502-4422-8146-4d6811ded4de,active token
+vaibhav,2024-01-30,2024-02-04,cohort 2,1% club,suryansh tiwari,aviral sharma,feb128ab-bf2f-11ee-807d-02e22ea38447,active token
+harshal,2024-01-27,2024-02-28,cohort 2,usp support,ayush dixit,rishabh tripathi,59a78c5b-e046-45df-9bba-9bbfd6b95536,active token
+samruddhi,2024-01-27,2024-03-03,cohort 2,1% club,abid bhat,aviral sharma,73ba7f10-bd11-11ee-807d-02e22ea38447,active token
+sachin,2023-09-29,2024-01-02,cohort 2,linkedin,fahim moshin shaikh,diptikanta jena,18822671-78e7-4394-a8df-e54287a8cdb4,active token
+tushar,2024-01-12,2024-02-02,cohort 2,linkedin,prapti lohan,vibhav walia,9fb4edb4-25ce-4c14-9eaf-1b14492a19a6,active token
+sandeep,2023-09-25,2024-02-23,cohort 2,linkedin,ayush dixit,diptikanta jena,2d725b13-1c7e-4d27-baf2-d868d3d2fa10,active token
+shubham,2024-02-10,2024-02-11,cohort 2,googleads,prapti lohan,shailendra singh,de324f4b-9014-48a4-8fd6-4f31213d1e9b,active token
+raghu,2024-01-27,2024-01-31,cohort 2,1% club,chitwan soni,shailendra singh,73b99fad-bd11-11ee-807d-02e22ea38447,active token
+satish,2024-02-13,2024-02-18,cohort 2,referral,ayush dixit,rishabh tripathi,e7186ec9-8bdc-4fde-8ace-84ade867666b,active token
+vysak,2024-01-27,2024-02-02,cohort 2,1% club,pawan tiwari,diptikanta jena,73ba12db-bd11-11ee-807d-02e22ea38447,active token
+mukul,2023-12-14,2023-12-27,cohort 2,lpu,aviral sharma,diptikanta jena,bf25f0af-52c9-11ee-a17b-0a9468bc4542,active token
+rushil,2024-01-14,2024-01-17,cohort 2,usp support,ayush dixit,diptikanta jena,01b396f7-c462-41fb-b392-3a765c570daf,active token
+anand,2023-09-09,2023-10-05,cohort 1,linkedin,fahim moshin shaikh,shailendra singh,a35f638b-4ee8-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+siddesh,2024-01-27,2024-02-09,cohort 2,1% club,prapti lohan,rishabh tripathi,73b9f2cd-bd11-11ee-807d-02e22ea38447,active token
+hariraj,2023-09-25,2023-09-19,cohort 1,zoom webinar,fahim moshin shaikh,shailendra singh,907e5cdf-5b7d-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+soniya,2024-01-27,2024-02-08,cohort 2,1% club,suryansh tiwari,rishabh tripathi,73b9c781-bd11-11ee-807d-02e22ea38447,active token
+nisanth,2023-09-09,2023-10-11,cohort 1,placement drive,fahim moshin shaikh,shailendra singh,a34e2f9c-4ee8-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+siva,2024-01-27,2024-01-31,cohort 2,1% club,bompada sai sudeep,shailendra singh,73ba277f-bd11-11ee-807d-02e22ea38447,active token
+sonal,2024-02-25,2024-02-26,cohort 2,usp support,ayush dixit,rishabh tripathi,23360be5-a2ea-4939-9ffb-ba2ff19b7759,active token
+aravindh,2024-01-27,2024-02-05,cohort 2,1% club,chitwan soni,aviral sharma,73b9bb1a-bd11-11ee-807d-02e22ea38447,active token
+tanya,2023-09-10,2024-01-28,cohort 2,linkedin,ayush dixit,rishabh tripathi,0f412a67-64e3-42f7-9089-f118380d7c7f,active token
+vijay,2024-01-30,2024-02-04,cohort 2,1% club,chitwan soni,aviral sharma,feb1cd88-bf2f-11ee-807d-02e22ea38447,active token
+durgalakshmi,2024-03-24,2024-03-24,cohort 2,referral,rohini rao dhara,shailendra singh,268a85d3-b65c-4c13-b85b-c9c0c0ac6229,active token
+abhay,2023-09-22,2023-12-17,cohort 2,linkedin,ayush dixit,shailendra singh,8e04f55f-d48c-4f40-8d7c-cb71f393195b,active token
+shashikiran,2024-01-27,2024-01-30,cohort 2,website,ayush dixit,diptikanta jena,dc4ee598-38e7-4ca3-84ae-64f1652c7331,active token
+areef,2024-01-27,2024-01-31,cohort 2,1% club,chitwan soni,aviral sharma,73ba2941-bd11-11ee-807d-02e22ea38447,active token
+sruthy,2024-01-27,2024-02-13,cohort 2,1% club,saket rai,rishabh tripathi,73ba10a9-bd11-11ee-807d-02e22ea38447,active token
+pushpalatha,2023-09-07,2023-09-18,cohort 1,facebook,fahim moshin shaikh,shailendra singh,3b134a40-9cee-40a8-a0da-ee82dc7005cd,INACTIVE TOKEN
+divya,2024-02-29,2024-03-11,cohort 2,referral,pawan tiwari,muskan,1b1cadcd-8128-451e-b8b8-894d9b3515e8,active token
+anupreethi,2024-04-09,2024-04-11,cohort 2,referral,chitwan soni,aviral sharma,738a19a7-2441-4f85-9e2a-5350a0ad5114,active token
+atharve,2024-03-08,2024-03-14,cohort 2,linkedin,chitwan soni,rishabh tripathi,26acb5f9-3e94-4210-9c65-390344eb2335,active token
+krishna,2024-04-05,2024-04-10,cohort 2,facebook,chitwan soni,aviral sharma,6f77be85-949d-4660-b050-31c63f1ee05c,active token
+mukund,2024-03-04,2024-03-09,cohort 2,futurense usp - website,chitwan soni,aviral sharma,1cf34ca8-7fb4-43e2-8ce0-add0e712aa45,active token
+paras,2024-01-27,2024-03-24,cohort 2,1% club,bompada sai sudeep,aviral sharma,73b9ffc0-bd11-11ee-807d-02e22ea38447,active token
+sthuty,2023-09-04,2024-04-09,cohort 2,linkedin,ayush dixit,diptikanta jena,7f980670-418f-4eca-800f-eab083838f44,active token
+arjin,2024-01-18,2024-01-25,cohort 2,facebook,ayush dixit,shailendra singh,25266a2b-1317-452b-acd9-4a46071440ad,active token
+arbaz,2023-12-06,2024-02-20,cohort 2,facebook,fahim moshin shaikh,shailendra singh,d108390a-cb8c-4876-b2db-efce9e029253,active token
+anshul,2023-08-08,2024-02-14,cohort 2,facebook,ayush dixit,aviral sharma,405c5e31-206d-4301-9818-1f2a61d1c137,active token
+deepthi,2023-12-07,2024-01-05,cohort 2,facebook,abid bhat,anshika vishwakarma,535fb24e-55c8-4229-acd5-7e24fd6ad1f8,active token
+khushboo,2024-01-27,2024-02-01,cohort 2,1% club,suryansh tiwari,aviral sharma,73ba1ce2-bd11-11ee-807d-02e22ea38447,active token
+vikas,2024-01-14,2024-02-16,cohort 2,facebook,abid bhat,rishabh tripathi,65c33709-e8fc-4d96-922f-e48605e1505b,active token
+sanket,2023-12-18,2024-01-10,cohort 2,us pathway,ayush dixit,diptikanta jena,60916a67-d24a-4712-aea2-6323e2497d94,active token
+md,2023-07-09,2024-02-08,cohort 2,linkedin,ayush dixit,aviral sharma,90e51a13-c373-4be1-8718-7904137b393c,active token
+nikhil,2024-01-22,2024-02-11,cohort 2,linkedin,kamal singh,diptikanta jena,01a19a9d-c677-49a7-b6a2-01ada1ffac02,active token
+jitendra,2024-03-13,2024-03-18,cohort 2,facebook,suryansh tiwari,muskan,28a5476f-5118-483b-b1bf-720311c5d68e,active token
+kajal,2023-12-10,2024-02-13,cohort 2,facebook,ayush dixit,diptikanta jena,bac9598f-4652-4766-8059-30923b4dfe5d,active token
+supriya,2024-03-02,2024-03-11,cohort 2,facebook,aditya vijayâ singh,aviral sharma,77b16753-8ff4-4808-afe2-9e5bed0b0eda,active token
+suraj,2024-03-03,2024-03-07,cohort 2,facebook,rohini rao dhara,shailendra singh,57494624-4c74-41e8-8b07-6aa00406fd38,active token
+venkateswar,2023-10-07,2024-03-03,cohort 2,linkedin,fahim moshin shaikh,shailendra singh,edf0c9eb-df87-4029-90a3-98f75029f529,active token
+krushang,2023-12-21,2024-01-09,cohort 2,linkedin,ayush dixit,rishabh tripathi,70cfe8b7-d9bc-4f2b-a18d-467969fc8866,active token
+mohammed,2024-01-12,2024-02-09,cohort 2,facebook,fahim moshin shaikh,diptikanta jena,d8ac7e44-8d83-4e73-95d0-6eea495a9ecb,active token
+tushar,2023-10-11,2024-01-19,cohort 2,linkedin,pawan tiwari,diptikanta jena,1e6ab0ad-25fa-4d20-a9c4-654643475c44,active token
+ajay,2023-09-20,2023-09-30,cohort 1,linkedin,ayush dixit,shailendra singh,123675f4-16e0-4c7f-b380-ec56d3ebf3de,INACTIVE TOKEN
+amir,2024-03-29,2024-04-09,cohort 2,zoom webinar,abid bhat,diptikanta jena,5936426e-5c86-4c4b-8d34-65e24ccc6df0,active token
+bhuvan,2024-02-16,2024-02-22,cohort 2,facebook,chitwan soni,aviral sharma,095ac9ac-d6f3-4443-b2bb-87b4fe6c5d94,active token
+saumya,2024-02-26,2024-03-14,cohort 2,futurense usp - website,saket rai,aviral sharma,bc1c432f-dcc0-4835-9a75-d0d71275b2d8,active token
+sanjam,2023-12-18,2024-01-14,cohort 2,referral,saket rai,anshika vishwakarma,e04949f3-6e8e-4602-8be7-f8af2957c9d4,active token
+sneha,2024-01-27,2024-03-03,cohort 2,1% club,fahim moshin shaikh,shailendra singh,73ba4142-bd11-11ee-807d-02e22ea38447,active token
+shwetha,2024-01-27,2024-02-01,cohort 2,1% club,fahim moshin shaikh,aviral sharma,73ba7405-bd11-11ee-807d-02e22ea38447,active token
+prasad,2023-12-07,2024-01-10,cohort 2,facebook,saket rai,vibhav walia,f50a2b76-b0da-4d6d-835a-a03a3739d282,active token
+akshaya,2024-03-13,2024-04-12,cohort 2,zoom webinar,bompada sai sudeep,muskan,112d47eb-5203-4c58-b892-51a4b624c772,active token
+rakesh,2023-12-28,2024-02-05,cohort 2,b.tech 19-20 grad,pawan tiwari,diptikanta jena,fffbd0b6-a55e-11ee-92ad-0a9468bc4542,active token
+shrey,2024-01-03,2024-01-16,cohort 2,zoom webinar,ayush dixit,manish yadav,3377e145-7b47-4a26-aef5-8bc3ac19f708,active token
+ruchira,2023-12-23,2024-02-22,cohort 2,facebook,bompada sai sudeep,shailendra singh,7f38c74b-3322-406a-aab6-b584fb854da5,active token
+vikas,2024-01-13,2024-02-16,cohort 2,facebook,pawan tiwari,diptikanta jena,f0e5efe6-68be-443a-8a2f-3b4ce1ca9875,active token
+himanshu,2024-01-02,2024-01-25,cohort 2,facebook,saket rai,anshika vishwakarma,80830735-4b0b-4509-a5ea-645db2ed845c,active token
+akshith,2024-03-25,2024-03-28,cohort 2,facebook,bompada sai sudeep,muskan,322a3438-1da0-4af4-aced-2faa85e6167e,active token
+piyush,2024-04-03,2024-04-11,cohort 2,zoom webinar,bompada sai sudeep,muskan,3b168aa4-4044-4eaf-95bd-7b2e8c2b19de,active token
+vaishnavi,2024-01-19,2024-02-15,cohort 2,facebook,fahim moshin shaikh,shailendra singh,637ca4f4-10c0-486a-949d-289b2fb27a40,active token
+aniruddha,2023-11-22,2024-01-24,cohort 2,linkedin,saket rai,anshika vishwakarma,18e2ffd2-1290-4666-989d-9d616a11c86c,active token
+raunak,2023-12-26,2024-02-11,cohort 2,facebook,abid bhat,rishabh tripathi,bb288280-a491-434f-b0c1-43caf93e5ee5,active token
+dakshansh,2023-09-11,2024-01-25,cohort 2,facebook,fahim moshin shaikh,shailendra singh,885fcbfa-150a-475a-a0c0-ffb0c55219f2,active token
+mukesh,2023-06-29,2024-02-03,cohort 2,n-db,fahim moshin shaikh,shailendra singh,4a793912-1684-11ee-ad83-0a9468bc4542,active token
+shiva,2024-02-10,2024-02-11,cohort 2,facebook,prapti lohan,shailendra singh,9a4f7606-d61d-46fb-92e6-a6b37c4ce07c,active token
+pinakpani,2024-01-29,2024-02-06,cohort 2,facebook,aditya vijayâ singh,vibhav walia,a0ba44f2-b320-4f36-8908-870f11d8252e,active token
+sumit,2024-02-02,2024-03-11,cohort 2,facebook,shrey goel,rishabh tripathi,78d24be7-9a85-4d76-80c5-3e60f748352c,active token
+saketh,2024-01-29,2024-02-07,cohort 2,facebook,aditya vijayâ singh,aviral sharma,551cc839-e51e-4dcc-8245-59e3f16ab039,active token
+arunkumar,2023-10-17,2023-12-20,cohort 2,linkedin,fahim moshin shaikh,shailendra singh,1a952d1d-c1df-4cac-a50b-7f126b2aa3ac,active token
+chanakya,2023-12-29,2024-01-04,cohort 2,facebook,ayush dixit,shailendra singh,9d26fbe9-b1f9-460b-9dd9-acf939dc6bef,active token
+awez,2024-02-23,2024-02-27,cohort 2,futurense usp - website,chitwan soni,aviral sharma,650f044f-d703-4cf4-994c-1b1fb7f2782d,active token
+nitasha,2023-08-24,2023-10-10,cohort 1,zoom webinar,fahim moshin shaikh,shailendra singh,47b8bf3b-4993-4086-bb3a-27c3d57a5fdc,INACTIVE TOKEN
+nikita,2023-12-22,2024-02-06,cohort 2,facebook,jatin luthra,rishabh tripathi,7616c61e-281f-4265-b13c-95755a8b75d8,active token
+kamal,2023-12-19,2024-01-30,cohort 2,facebook,jatin luthra,rishabh tripathi,548cbf24-2124-40e0-82a1-5fdce66a0df8,active token
+mohd,2024-02-09,2024-02-12,cohort 2,facebook,chitwan soni,rishabh tripathi,45bf0a2e-21da-47f5-ad15-ba689a98d966,active token
+prajwal,2023-12-22,2024-02-05,cohort 2,b.tech 19-20 grad,sakshi thakur,diptikanta jena,2ae5a05e-a0bd-11ee-92ad-0a9468bc4542,active token
+bharath,2023-09-25,2024-02-05,cohort 2,placement drive,fahim moshin shaikh,shailendra singh,b988b21d-5b82-11ee-a17b-0a9468bc4542,active token
+rajendra,2024-01-09,2024-01-22,cohort 2,facebook,fahim moshin shaikh,shailendra singh,4fd750d1-2f88-45a2-8b6b-33e4ee538909,active token
+angha,2023-09-17,2024-02-12,cohort 2,linkedin,nickil jadhav,rishabh tripathi,2e77d55d-f877-43cb-8e0d-826411bf637b,active token
+avinash,2024-02-08,2024-04-13,cohort 2,fb lead ads,shrey goel,aviral sharma,85abbc0d-9471-4e8b-8a52-bfd68995cabf,active token
+sanket,2023-11-10,2024-02-27,cohort 2,facebook,shrey goel,aviral sharma,74e957dc-7fa4-11ee-a17b-0a9468bc4542,active token
+yashaswi,2023-12-28,2024-02-04,cohort 2,futurense usp - website,jatin luthra,vibhav walia,a1b706e6-4884-429c-9769-52594b15f8b4,active token
+chetan,2023-12-22,2024-01-10,cohort 2,facebook,saket rai,anshika vishwakarma,90869dab-2cbd-497a-bca7-4f78feb75cb5,active token
+arvind,2023-11-24,2023-12-16,cohort 2,facebook,abid bhat,diptikanta jena,af8239cc-1602-4570-b22c-f5699dc5db37,active token
+asha,2023-11-14,2023-12-19,cohort 2,facebook,ayush dixit,diptikanta jena,be706549-ab4b-4a68-b56e-2f86c42a5af9,active token
+harikrishnan,2023-07-29,2024-03-26,cohort 2,n-db,abid bhat,shailendra singh,6aebcdac-2df5-11ee-a17b-0a9468bc4542,active token
+mayank,2023-07-31,2024-02-12,cohort 2,os,prapti lohan,rishabh tripathi,372e81fc-2f83-11ee-a17b-0a9468bc4542,active token
+rahul,2024-01-05,2024-01-25,cohort 2,facebook,chitwan soni,aviral sharma,8055fc80-46dd-417d-87fc-cec37de81593,active token
+shirish,2023-09-13,2023-11-30,cohort 2,linkedin,ayush dixit,diptikanta jena,177ab891-883e-4897-b626-9c4989dae743,active token
+lokesh,2024-01-19,2024-02-23,cohort 2,futurense usp - website,bompada sai sudeep,aviral sharma,e10719a5-7983-46bb-a1e3-49c4f55f7344,active token
+tanveer,2023-11-10,2023-12-22,cohort 2,No Source,fahim moshin shaikh,shailendra singh,af91889d-7fc6-11ee-a17b-0a9468bc4542,active token
+keerthihasa,2023-11-28,2024-01-25,cohort 2,facebook,abid bhat,aviral sharma,6a58e107-cc7c-4870-b35d-1f5a2cefc220,active token
+aneesur,2023-09-09,2024-01-16,cohort 2,placement drive,fahim moshin shaikh,shailendra singh,a35362cc-4ee8-11ee-a17b-0a9468bc4542,active token
+vibhor,2024-01-31,2024-02-09,cohort 2,futurense usp - website,suryansh tiwari,diptikanta jena,c159b03c-775f-4996-850a-b4a38013023c,active token
+tanushree,2024-01-27,2024-02-20,cohort 2,1% club,ayush dixit,rishabh tripathi,73b9d5d7-bd11-11ee-807d-02e22ea38447,active token
+anirudhh,2023-12-05,2024-03-05,cohort 2,facebook,chitwan soni,shailendra singh,783d15b9-82db-4763-ab62-b9a40c7b9232,active token
+sagar,2023-10-17,2023-10-31,cohort 2,linkedin,fahim moshin shaikh,diptikanta jena,c95beaba-8245-4007-b849-aba38f4ff350,active token
+shashank,2023-08-23,2024-02-14,cohort 2,linkedin,pawan tiwari,shailendra singh,6c7371fb-1db8-46f1-b6c5-88e74e59a0d1,active token
+abhishek,2024-01-27,2024-01-29,cohort 2,facebook,ratnesh mishra,shailendra singh,0a71ea27-92d1-44d8-a0d0-fa89fcb02929,active token
+chintan,2023-09-14,2023-10-03,cohort 1,17th sept hot leads,fahim moshin shaikh,shailendra singh,bf265122-52c9-11ee-a17b-0a9468bc4542,INACTIVE TOKEN
+chintan,2023-08-29,2024-02-01,cohort 2,facebook,fahim moshin shaikh,shailendra singh,bd1025fc-0808-4f78-82dc-7f39ce40e9b1,active token
+akanksha,2023-01-04,2024-01-29,cohort 2,facebook,fahim moshin shaikh,shailendra singh,9d414d1b-cb43-451a-a2a8-8f96f1289061,active token
+nishant,2023-06-29,2024-01-16,cohort 2,n-db,ayush dixit,diptikanta jena,4a719624-1684-11ee-ad83-0a9468bc4542,active token
+daniel,2023-09-20,2024-01-15,cohort 2,linkedin,aviral sharma,rishabh tripathi,ba72848a-2fcf-4ddf-bd81-6c20b0cd7b3f,active token
+saiffuddin,2023-11-28,2024-01-30,cohort 2,us pathway,chitwan soni,aviral sharma,fdb8ce5a-ecea-4f30-86f9-6251717aa34a,active token
+sivananda,2023-12-16,2024-01-29,cohort 2,facebook,ayush dixit,rishabh tripathi,4626934a-9bd3-11ee-92ad-0a9468bc4542,active token
+ramakrishnan,2024-02-18,2024-02-18,cohort 2,futurense usp - website,pawan tiwari,diptikanta jena,29d2bf94-f749-43c8-b672-d1c0cf78c67b,active token
+hemant,2023-09-10,2024-01-23,cohort 2,linkedin,subhasisha sabat,shailendra singh,f8369087-98e4-4a99-99db-9d5ee4c426ee,active token
+nishant,2023-12-10,2024-01-12,cohort 2,facebook,fahim moshin shaikh,shailendra singh,202de6ac-ba84-468f-a50d-89005c8f9a6c,active token
+sweety,2023-11-20,2024-01-18,cohort 2,facebook,saket rai,shailendra singh,b0d1548d-4ecd-4d0d-8627-fe3f82ad4073,active token
+balaji,2023-09-05,2024-01-27,cohort 2,linkedin,abid bhat,rishabh tripathi,2814bada-ed15-4888-a792-1bb625411411,active token
+revanth,2024-01-21,2024-03-03,cohort 2,linkedin,ratnesh mishra,shailendra singh,ec278b2a-7b3a-4ced-9719-03ee328c0f97,active token
+sambit,2023-08-17,2024-01-17,cohort 2,linkedin,fahim moshin shaikh,shailendra singh,c9a42c89-2ee7-43f8-b69e-d2e8026963b8,active token
+ajay,2023-06-26,2024-02-18,cohort 2,n-db,saket rai,aviral sharma,4a61e149-1684-11ee-ad83-0a9468bc4542,active token
+shijo,2024-01-13,2024-03-10,cohort 2,facebook,saket rai,rishabh tripathi,3d8469a4-e834-4646-9b4c-67be05a91fc2,active token
+satish,2023-11-10,2023-12-01,cohort 2,No Source,fahim moshin shaikh,shailendra singh,af932af4-7fc6-11ee-a17b-0a9468bc4542,active token
+bijoy,2024-01-20,2024-01-26,cohort 2,facebook,pawan tiwari,vibhav walia,05ebd61d-9472-4f92-b413-4d362cde8f0c,active token
+kapil,2024-01-20,2024-01-24,cohort 2,facebook,jatin luthra,rishabh tripathi,d60ff948-3ac1-4b3d-a88b-14377c92583f,active token
+sushant,2023-08-14,2023-12-29,cohort 2,linkedin,fahim moshin shaikh,shailendra singh,9392fae7-eb32-41e1-8096-90803f51193b,active token
+arpita,2024-01-17,2024-03-11,cohort 2,b.tech 19-20 grad,aditya vijayâ singh,shailendra singh,1aeb3f12-b531-11ee-9d4a-0a9468bc4542,active token
+nagul,2024-01-27,2024-02-29,cohort 2,facebook,sonu mishra,diptikanta jena,ebc14ac9-77e4-43f5-8827-321545a75e33,active token
+lohith,2024-01-26,2024-02-12,cohort 2,us pathway,prapti lohan,shailendra singh,07ac7085-b75f-4ab9-bb09-d1f2a95c1458,active token
+naga,2024-02-10,2024-03-07,cohort 2,facebook,simran singh,rishabh tripathi,3bcc5100-49c5-42f4-a478-8a29a072c97e,active token
+sai,2024-03-02,2024-03-23,cohort 2,zoom webinar,saket rai,rishabh tripathi,389f005a-eaa4-4887-9da2-39a1d76fe660,active token
+md,2024-03-01,2024-03-15,cohort 2,facebook,aditya vijayâ singh,diptikanta jena,3aaf3898-cdbd-42b1-9051-d802a703f7eb,active token
+snehjeet,2023-09-05,2024-03-12,cohort 2,facebook,jatin luthra,aviral sharma,a2c84a26-adee-436e-a8e7-55e4fc7e85a8,active token
+amiruddin,2024-02-05,2024-02-24,cohort 2,facebook,jatin luthra,aviral sharma,b47b5a2b-6299-45d1-8c93-b314db355472,active token
+pranav,2024-02-14,2024-03-08,cohort 2,facebook,pawan tiwari,aviral sharma,56723a8d-9f4a-4c4c-8faf-d79e1dc24ece,active token
+sruthi,2024-02-26,2024-04-04,cohort 2,facebook,pawan tiwari,shailendra singh,6bd235ea-d46f-11ee-807d-02e22ea38447,active token
+vishnu,2024-01-26,2024-02-20,cohort 2,linkedin,jatin luthra,rishabh tripathi,8a377387-7322-44e1-997a-2a682849fbb6,active token
+arish,2024-04-03,2024-04-12,cohort 2,zoom webinar,suryansh tiwari,muskan,072c448b-fe7b-4953-87dc-61920a9ebcda,active token
+srijan,2024-01-27,2024-02-09,cohort 2,1% club,pawan tiwari,diptikanta jena,80dd85d8-25dd-4139-a960-bc86794a7010,active token
+dhruvi,2024-03-02,2024-04-12,cohort 2,facebook,bompada sai sudeep,muskan,20a61ae2-3f50-4912-9cbe-ec26de812a50,active token
+gadde,2024-03-19,2024-04-07,cohort 2,zoom webinar,bompada sai sudeep,diptikanta jena,42da6b97-fb91-4fbe-b05c-d5ad502bdf63,active token
+shweta,2024-04-02,2024-04-08,cohort 2,facebook,chitwan soni,aviral sharma,923922f4-0f1b-4077-bcdb-f4822be01e10,active token
+koushik,2024-04-03,2024-04-05,cohort 2,zoom webinar,aditya vijayâ singh,shashwat,69a7b286-6b49-4c57-ad2f-7cee104264c5,active token
+akash,2024-03-04,2024-03-22,cohort 2,facebook,chitwan soni,aviral sharma,a7b58fb9-c934-4e40-b2e4-5b311a033104,active token
+nitish,2023-08-12,2024-03-02,cohort 2,n-db,abid bhat,diptikanta jena,80d2dc87-3912-11ee-a17b-0a9468bc4542,active token
+aishwariya,2024-03-16,2024-03-21,cohort 2,zoom webinar,saket rai,shashwat,1a00195c-cfc6-4320-b6f8-023d1da6c4cb,active token
+saloni,2024-03-15,2024-03-20,cohort 2,zoom webinar,ayush dixit,diptikanta jena,cad420b9-1303-4913-b13f-0a62ea1f9b28,active token
+rashika,2024-02-15,2024-03-22,cohort 2,referral,fahim moshin shaikh,shailendra singh,9e1b148b-5713-4815-b5da-ce55cc609546,active token
+aishwarya,2024-01-29,2024-02-27,cohort 2,facebook,sonu mishra,diptikanta jena,144de4e0-aa08-4232-85b1-d0b10b32aac3,active token
+mohd,2024-02-08,2024-02-18,cohort 2,zoom webinar,abid bhat,aviral sharma,a81f6fe2-617c-4d59-b3d0-affa129ad181,active token
+shauk,2024-03-14,2024-03-20,cohort 2,facebook,suryansh tiwari,aviral sharma,95fc05c1-157e-4106-9d31-cc665b50df11,active token
+rajini,2024-04-01,2024-04-02,cohort 2,zoom webinar,aditya vijayâ singh,shashwat,29962ba7-872e-4d1a-88fa-feff38c24bb4,active token
+vismay,2024-01-02,2024-03-08,cohort 2,facebook,chitwan soni,aviral sharma,d28dd6af-3278-4f1a-ac81-ee9a3c66af55,active token
+revant,2024-02-26,2024-03-07,cohort 2,googleads,bompada sai sudeep,shailendra singh,3b38557a-a94a-4a04-aeee-86db3dd24328,active token
+sushma,2023-12-24,2024-02-26,cohort 2,facebook,jatin luthra,diptikanta jena,f68793a5-9d87-40f3-bb56-7b431ecf1ac7,active token
+shubham,2024-03-01,2024-03-27,cohort 2,zoom webinar,pawan tiwari,aviral sharma,e068baed-a9f2-491b-adb4-2a8a867183fe,active token
+arp,2024-02-06,2024-02-16,cohort 2,facebook,rohini rao dhara,shailendra singh,4f71c9b5-2fb3-4479-8b01-20ecc76990fb,active token
+akansha,2024-03-12,2024-03-23,cohort 2,zoom webinar,jatin luthra,rishabh tripathi,73165dfc-c8d7-4f64-90dc-8f315df8d7bf,active token
+mahesh,2023-09-22,2024-03-28,cohort 2,placement drive,saket rai,shashwat,c45b0bdf-97c4-4e2f-8d93-1b21e4f22174,active token
+ranjeet,2024-03-07,2024-04-06,cohort 2,linkedin,suryansh tiwari,muskan,bbccb2a7-dc4d-11ee-807d-02e22ea38447,active token
+himalaya,2024-04-03,2024-04-12,cohort 2,zoom webinar,aditya vijayâ singh,aviral sharma,4bff570e-8e17-4f68-9d8e-f5196410f1cf,active token
+praveen,2024-02-24,2024-03-09,cohort 2,zoom webinar,prapti lohan,shailendra singh,5e42f187-1ab8-472f-acf2-6ef5990bbfce,active token
+eileen,2024-02-08,2024-02-17,cohort 2,zoom webinar,chitwan soni,aviral sharma,593dc043-3d6c-45ee-9de1-78a736c820d3,active token
+rishit,2024-02-27,2024-03-08,cohort 2,facebook,suryansh tiwari,aviral sharma,cd9e2d12-aadd-420a-9f2d-9008cf8b2c04,active token
+sounder,2023-08-12,2024-02-11,cohort 2,n-db,bompada sai sudeep,diptikanta jena,c6eec8e4-3911-11ee-a17b-0a9468bc4542,active token
+aman,2024-03-04,2024-03-10,cohort 2,zoom webinar,shrey goel,shailendra singh,350255b5-6577-4a1f-abcc-6cf0fa34814d,active token
+nunna,2024-04-09,2024-04-12,cohort 2,zoom webinar,bompada sai sudeep,muskan,260df948-1953-4596-a96e-5aa90d2eedf4,active token
+sreekumar,2023-08-18,2023-12-17,cohort 2,linkedin,fahim moshin shaikh,shailendra singh,37db7091-de0b-4539-8776-b99254f38489,active token
+divesh,2023-12-30,2024-04-11,cohort 2,facebook,fahim moshin shaikh,shailendra singh,604f72b3-24aa-417a-92d6-00506068f78b,active token
+kunj,2024-03-14,2024-03-30,cohort 2,zoom webinar,bompada sai sudeep,aviral sharma,a332b8f4-ad63-42c7-8b20-762afbbead72,active token
+madhan,2024-02-17,2024-02-29,cohort 2,zoom webinar,sonu mishra,diptikanta jena,b1d12fc3-095f-4dc7-8f10-379b3a27de95,active token
+penumaka,2024-02-09,2024-02-11,cohort 2,facebook,nickil jadhav,diptikanta jena,5609f6cc-edbe-4da8-8374-c8aeabbce7d5,active token
+sanchit,2024-02-21,2024-02-26,cohort 2,facebook,ayush dixit,diptikanta jena,1722fc49-a6ee-464a-9803-35b6487c451e,active token
+ashish,2024-01-23,2024-03-18,cohort 2,n-db,saket rai,rishabh tripathi,7b8b00c5-b9f2-11ee-807d-02e22ea38447,active token
+mayank,2024-02-24,2024-03-10,cohort 2,zoom webinar,chitwan soni,aviral sharma,2b66d992-d2f3-11ee-807d-02e22ea38447,active token
+andrew,2024-02-17,2024-03-02,cohort 2,facebook,prapti lohan,shailendra singh,ce43211f-33a5-4629-b855-526b797ff4d5,active token
+mohd,2024-04-27,2024-04-27,cohort 2,referral,rohini rao dhara,No Counsellor,dd9de476-f32c-4906-919e-7a0cb1c8d853,active token
+purnima,2024-04-08,2024-04-15,cohort 2,facebook,jatin luthra,rishabh tripathi,0a00a6ae-e018-4304-b0a2-bd8d64f9dbb3,active token
+manikarnikia,2023-11-30,2024-05-03,cohort 2,facebook,saket rai,shashwat,ead410b3-79ae-471c-baab-415b357a5816,active token
+ashok,2024-04-10,2024-04-15,cohort 2,facebook,bompada sai sudeep,diptikanta jena,6f4c7f29-9243-4a06-87af-b8f87be0b04f,active token
+plabini,2024-04-09,2024-04-14,cohort 2,zoom webinar,ratnesh mishra,rishabh tripathi,4199597c-341d-4cf4-8823-2fe391dcbfc6,active token
+pranav,2024-03-30,2024-04-14,cohort 2,zoom webinar,ratnesh mishra,shashwat,0181dce5-7a90-4d3f-b832-aee660d2aeb5,active token
+gokul,2024-04-04,2024-04-14,cohort 2,zoom webinar,simran singh,rishabh tripathi,63875ab3-7318-4fb2-a87a-52ab2594bfed,active token
+shrishti,2024-04-08,2024-04-15,cohort 2,facebook,chitwan soni,rishabh tripathi,661d27cb-5c53-499a-b852-5e8ac4cdf1de,active token
