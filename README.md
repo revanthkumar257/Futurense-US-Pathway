@@ -1,9 +1,9 @@
-Futurense US Pathway Program Analysis and Machine Learning Project
+**Futurense US Pathway Program Analysis and Machine Learning Project**
 
 Overview:
 This repository contains a comprehensive analysis and machine learning project focused on the Futurense US Pathway Program. The project aims to identify key insights, enhance program performance, and build predictive models using real-world data. Additionally, visualizations and actionable recommendations are included to address core business challenges.
 
-Repository Structure-
+**Repository Structure**
 The repository is organized into the following sections:
 1. Datasets
 Raw Data: Contains the original datasets used for analysis, including lead details, conversion rates, and marketing channel performance.
